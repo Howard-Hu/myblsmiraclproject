@@ -1,5 +1,5 @@
 # myblsmiraclproject
-完成bls签名rfc草案中(https://www.ietf.org/archive/id/draft-irtf-cfrg-bls-signature-05.html)有,mcore中没有实现的部分
+完成bls签名rfc草案中( https://www.ietf.org/archive/id/draft-irtf-cfrg-bls-signature-05.html )有,mcore中没有实现的部分
 
 说明：
 1. 可以直接解压mcore.zip至mcore.zip所在目录，也可以自行从https://github.com/miracl/core/tree/master/rust 按文档说明获取，然后放到笨项目根目录下；

@@ -6,4 +6,5 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-mcore={path="mcore", version="0.1.0"}
+# mcore={path="mcore", version="0.1.0"}
+mcore = { git =  "https://github.com/Howard-Hu/mcore-rust.git", package = "mcore", rev = "44d720e" }
